@@ -300,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcClient\\grpcClient.csproj",
+      "projectUniqueName": "D:\\Private\\Project\\gRPC-Example\\grpcClient\\grpcClient.csproj",
       "projectName": "grpcClient",
-      "projectPath": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcClient\\grpcClient.csproj",
+      "projectPath": "D:\\Private\\Project\\gRPC-Example\\grpcClient\\grpcClient.csproj",
       "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcClient\\obj\\",
+      "outputPath": "D:\\Private\\Project\\gRPC-Example\\grpcClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -377,7 +377,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

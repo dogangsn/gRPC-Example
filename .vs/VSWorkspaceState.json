@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grpcClient",
+    "\\grpcServer"
+  ],
+  "SelectedNode": "\\grpcClient\\greet.proto",
+  "PreviewInSolutionExplorer": false
+}

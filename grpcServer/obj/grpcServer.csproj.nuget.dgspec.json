@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcServer\\grpcServer.csproj": {}
+    "D:\\Private\\Project\\gRPC-Example\\grpcServer\\grpcServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcServer\\grpcServer.csproj": {
+    "D:\\Private\\Project\\gRPC-Example\\grpcServer\\grpcServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcServer\\grpcServer.csproj",
+        "projectUniqueName": "D:\\Private\\Project\\gRPC-Example\\grpcServer\\grpcServer.csproj",
         "projectName": "grpcServer",
-        "projectPath": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcServer\\grpcServer.csproj",
+        "projectPath": "D:\\Private\\Project\\gRPC-Example\\grpcServer\\grpcServer.csproj",
         "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dogan\\Desktop\\gRPCExample\\grpcServer\\obj\\",
+        "outputPath": "D:\\Private\\Project\\gRPC-Example\\grpcServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
