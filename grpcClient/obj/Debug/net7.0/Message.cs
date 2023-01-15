@@ -26,9 +26,9 @@ namespace grpcMessageClient {
           string.Concat(
             "Cg1tZXNzYWdlLnByb3RvEgVncmVldCIvCg5NZXNzYWdlUmVxdWVzdBIMCgRu",
             "YW1lGAEgASgJEg8KB21lc3NhZ2UYAiABKAkiIgoPTWVzc2FnZVJlc3BvbnNl",
-            "Eg8KB21lc3NhZ2UYASABKAkyRwoHTWVzc2FnZRI8CgtTZW5kTWVzc2FnZRIV",
+            "Eg8KB21lc3NhZ2UYASABKAkySQoHTWVzc2FnZRI+CgtTZW5kTWVzc2FnZRIV",
             "LmdyZWV0Lk1lc3NhZ2VSZXF1ZXN0GhYuZ3JlZXQuTWVzc2FnZVJlc3BvbnNl",
-            "QhSqAhFncnBjTWVzc2FnZUNsaWVudGIGcHJvdG8z"));
+            "MAFCFKoCEWdycGNNZXNzYWdlQ2xpZW50YgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
