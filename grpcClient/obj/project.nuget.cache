@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "8GUHN7ukW7R753awx2XIbBO0wWhyqtLNp7ATgq5Ogt41AHUMYutRmv9T5JnpdhlJR79YyPWkOXhzbJyABCaxbQ==",
+  "dgSpecHash": "r2FoPYqNnmV1LFCu0weplxZacNoDd2fv3UO9bJR4sjskomU/S/LSNGyi+fEKsk4oXxvGNLu54IRlqD5y7y+xZg==",
   "success": true,
   "projectFilePath": "D:\\Private\\Project\\gRPC-Example\\grpcClient\\grpcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dogan\\.nuget\\packages\\google.protobuf\\3.21.11\\google.protobuf.3.21.11.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\grpc.core.api\\2.51.0-pre1\\grpc.core.api.2.51.0-pre1.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\grpc.net.client\\2.51.0-pre1\\grpc.net.client.2.51.0-pre1.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\grpc.net.common\\2.51.0-pre1\\grpc.net.common.2.51.0-pre1.nupkg.sha512",
-    "C:\\Users\\dogan\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\grpc.core.api\\2.34.0\\grpc.core.api.2.34.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\grpc.net.client\\2.34.0\\grpc.net.client.2.34.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\grpc.net.common\\2.34.0\\grpc.net.common.2.34.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\grpc.tools\\2.35.0\\grpc.tools.2.35.0.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = grpcClient
-build_property.ProjectDir = D:\Private\Project\gRPC-Example\grpcClient\
+build_property.ProjectDir = d:\Private\Project\gRPC-Example\grpcClient\
